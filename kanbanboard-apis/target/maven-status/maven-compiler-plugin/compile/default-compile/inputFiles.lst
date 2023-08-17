@@ -1,0 +1,12 @@
+D:\Begawo-Soft\Personal-Workspace\Projects\kanbanboard\kanbanboard-apis\src\main\java\com\betsol\kanbanboardTask\controller\UserController.java
+D:\Begawo-Soft\Personal-Workspace\Projects\kanbanboard\kanbanboard-apis\src\main\java\com\betsol\kanbanboardTask\dao\UserDao.java
+D:\Begawo-Soft\Personal-Workspace\Projects\kanbanboard\kanbanboard-apis\src\main\java\com\betsol\kanbanboardTask\KanbanboardTaskApplication.java
+D:\Begawo-Soft\Personal-Workspace\Projects\kanbanboard\kanbanboard-apis\src\main\java\com\betsol\kanbanboardTask\Enum\TaskResponseMessages.java
+D:\Begawo-Soft\Personal-Workspace\Projects\kanbanboard\kanbanboard-apis\src\main\java\com\betsol\kanbanboardTask\entity\Tbltask.java
+D:\Begawo-Soft\Personal-Workspace\Projects\kanbanboard\kanbanboard-apis\src\main\java\com\betsol\kanbanboardTask\service\UserService.java
+D:\Begawo-Soft\Personal-Workspace\Projects\kanbanboard\kanbanboard-apis\src\main\java\com\betsol\kanbanboardTask\entity\Tbluser.java
+D:\Begawo-Soft\Personal-Workspace\Projects\kanbanboard\kanbanboard-apis\src\main\java\com\betsol\kanbanboardTask\service\TaskService.java
+D:\Begawo-Soft\Personal-Workspace\Projects\kanbanboard\kanbanboard-apis\src\main\java\com\betsol\kanbanboardTask\controller\TaskController.java
+D:\Begawo-Soft\Personal-Workspace\Projects\kanbanboard\kanbanboard-apis\src\main\java\com\betsol\kanbanboardTask\Enum\UserResponseMessages.java
+D:\Begawo-Soft\Personal-Workspace\Projects\kanbanboard\kanbanboard-apis\src\main\java\com\betsol\kanbanboardTask\dao\TaskDao.java
+D:\Begawo-Soft\Personal-Workspace\Projects\kanbanboard\kanbanboard-apis\src\main\java\com\betsol\kanbanboardTask\utilities\Utilities.java

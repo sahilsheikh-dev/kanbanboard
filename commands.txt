@@ -1,0 +1,3 @@
+docker-compose up       ->  to run in interactive mode
+docker-compose up -d    ->  to run in detach mode
+docker-compose down     ->  to stop the services/application

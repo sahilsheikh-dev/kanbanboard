@@ -1,0 +1,14 @@
+com\betsol\kanbanboardTask\controller\TaskController.class
+com\betsol\kanbanboardTask\entity\Tbltask.class
+com\betsol\kanbanboardTask\dao\TaskDao.class
+com\betsol\kanbanboardTask\service\TaskService.class
+com\betsol\kanbanboardTask\Enum\TaskResponseMessages.class
+com\betsol\kanbanboardTask\service\TaskService$1.class
+com\betsol\kanbanboardTask\utilities\Utilities.class
+com\betsol\kanbanboardTask\controller\UserController.class
+com\betsol\kanbanboardTask\dao\UserDao.class
+com\betsol\kanbanboardTask\KanbanboardTaskApplication$1.class
+com\betsol\kanbanboardTask\entity\Tbluser.class
+com\betsol\kanbanboardTask\Enum\UserResponseMessages.class
+com\betsol\kanbanboardTask\KanbanboardTaskApplication.class
+com\betsol\kanbanboardTask\service\UserService.class
