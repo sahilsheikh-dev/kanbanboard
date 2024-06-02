@@ -21,7 +21,7 @@ public class TaskController {
 	
 	@GetMapping("/")
 	public String welcome() {
-		return "Welcome to kanban board developed by Sahil Sheikh";
+		return "Welcome to Kanban Board";
 	}
 	
 	@GetMapping("/tasks")
